@@ -15,3 +15,6 @@ let week = 3;
 
 // Plant Weekly Double Growth
 let plantCount = startingPlants * (2** week)
+
+// AREA / Max capacity of the garden
+let maxCapacity = area / minSpacePerPlant;
